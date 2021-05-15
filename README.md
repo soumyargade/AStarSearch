@@ -1,5 +1,7 @@
 # aStarSearch
 
+Implementation of A* Search to find the shortest path between individuals. Linear distance was used as the heuristic function.
+
 Instructions in order to compile on VCL & create an executable jar:
 
     javac Edge.java
