@@ -18,8 +18,8 @@ public class Node {
 	}
 
 	@Override
-    public String toString() {
-        //return(name + " " + latitude + " " + longitude);
-        return name;
-    }
+    	public String toString() {
+        	//return(name + " " + latitude + " " + longitude);
+        	return name;
+	}
 }
