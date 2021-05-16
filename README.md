@@ -16,3 +16,6 @@
     jar cmf Assign3Search.mf Assign3Search.jar Assign3Search.class Node.class Edge.class Assign3Search\$1.class
 
     java -jar Assign3Search.jar <inputfile> <startname> <endname>
+
+### Depiction of the Social Network
+![social network](https://github.com/soumyargade/aStarSearch/blob/main/socialnetwork.png)
