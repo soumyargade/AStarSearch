@@ -18,5 +18,5 @@
 
     java -jar Assign3Search.jar <inputfile> <startname> <endname>
 
-### Depiction of the Social Network
+### Depiction of Social Network
 ![social network](https://github.com/soumyargade/aStarSearch/blob/main/socialnetwork.png)
